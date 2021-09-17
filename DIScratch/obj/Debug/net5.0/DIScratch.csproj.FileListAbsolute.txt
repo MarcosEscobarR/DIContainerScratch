@@ -1,0 +1,16 @@
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\bin\Debug\net5.0\DIScratch.exe
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\bin\Debug\net5.0\DIScratch.deps.json
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\bin\Debug\net5.0\DIScratch.runtimeconfig.json
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\bin\Debug\net5.0\DIScratch.runtimeconfig.dev.json
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\bin\Debug\net5.0\DIScratch.dll
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\bin\Debug\net5.0\ref\DIScratch.dll
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\bin\Debug\net5.0\DIScratch.pdb
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\obj\Debug\net5.0\DIScratch.csproj.AssemblyReference.cache
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\obj\Debug\net5.0\DIScratch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\obj\Debug\net5.0\DIScratch.AssemblyInfoInputs.cache
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\obj\Debug\net5.0\DIScratch.AssemblyInfo.cs
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\obj\Debug\net5.0\DIScratch.csproj.CoreCompileInputs.cache
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\obj\Debug\net5.0\DIScratch.dll
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\obj\Debug\net5.0\ref\DIScratch.dll
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\obj\Debug\net5.0\DIScratch.pdb
+C:\Users\Marcos_pc\RiderProjects\DIScratch\DIScratch\obj\Debug\net5.0\DIScratch.genruntimeconfig.cache
